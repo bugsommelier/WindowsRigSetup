@@ -25,4 +25,4 @@
 | VLC                            | Media player                                                 |
 | Zoom                           | Video meeting platform                                       |
 
-[Download PowerShell Script]() 
+[Download PowerShell Script](https://github.com/adamwdd/WindowsRigSetup/blob/main/src/winget_apps.ps1) 
